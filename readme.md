@@ -22,13 +22,13 @@ The **Flocking Simulation** project is a Python-based simulation that models the
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/FlockingSimulation.git
+   git clone https://github.com/OussamaTabzioui/Flocking-Simulation-with-python.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd FlockingSimulation
+   cd Flocking-Simulation-with-python
    ```
 
 3. **Install dependencies:**
@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Project Repository:** [GitHub Repository](https://github.com/YourUsername/FlockingSimulation)
-- **Your Name** - [Your Email](mailto:your.email@example.com)
+- **Your Name** - [Your Email](mailto:OussamaTabzioui09@gmail.com)
 ```
 
 ### Key Sections:
